@@ -1,0 +1,18 @@
+﻿@model Category
+
+<form method="post">
+    <fieldset>
+        <div>
+            <fieldset>
+                <label asp-for="Name" class="form-label mt-4" for="readOnlyInput">Name</label>
+                <input asp-for="Name" class="form-control" id="readOnlyInput" type="text" placeholder="Name of category">
+                <span asp-validation-for="Name" class="text-bg-danger"></span>
+            </fieldset>
+
+        </div>
+
+        <button asp-controller="Category" asp-action="Create" type="submit" class="mt-4 btn btn-primary">Add New Category</button>
+
+        <a class="mt-4 btn btn-secondary" asp-controller="category" asp-action="ListeCategories"> Back to list Category</a>
+    </fieldset>
+</form>

@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\views\\category\\listecategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:views\\category\\listecategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\vols.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:vols.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\migrations\\20250320034650_addtablecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:migrations\\20250320034650_addtablecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\migrations\\20250320033519_addcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:migrations\\20250320033519_addcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|c:\\users\\msi gf63 11ud\\desktop\\etude\\ehtp\\project\\dotnet\\vols\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC0BE6D2-7135-484E-BD1D-D9B6131032FF}|Vols.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T23:33:30.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T23:12:34.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T23:12:32.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-20T23:11:55.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T23:10:59.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T23:10:53.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T23:06:15.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-20T23:05:45.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vols",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Vols.csproj",
+              "RelativeDocumentMoniker": "Vols.csproj",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Vols.csproj",
+              "RelativeToolTip": "Vols.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T23:05:22.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListeCategories.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\Category\\ListeCategories.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\ListeCategories.cshtml",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Views\\Category\\ListeCategories.cshtml",
+              "RelativeToolTip": "Views\\Category\\ListeCategories.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T22:53:32.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:47:18.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250320034650_addTableCategory.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Migrations\\20250320034650_addTableCategory.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250320034650_addTableCategory.cs",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Migrations\\20250320034650_addTableCategory.cs",
+              "RelativeToolTip": "Migrations\\20250320034650_addTableCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:46:50.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:42:39.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250320033519_addCategoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Migrations\\20250320033519_addCategoryTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250320033519_addCategoryTable.cs",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Migrations\\20250320033519_addCategoryTable.cs",
+              "RelativeToolTip": "Migrations\\20250320033519_addCategoryTable.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:35:19.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:10:15.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:07:55.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T02:56:24.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T02:44:14.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T02:21:31.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MSI GF63 11UD\\Desktop\\etude\\EHTP\\Project\\DotNet\\Vols\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T02:20:43.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
